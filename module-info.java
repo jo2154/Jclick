@@ -4,5 +4,5 @@
 /**
  * 
  */
-module AmazeTest {
+module amazonlogin {
 }
