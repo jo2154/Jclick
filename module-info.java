@@ -4,5 +4,5 @@
 /**
  * 
  */
-module amazonlogin {
+module reginfo {
 }
