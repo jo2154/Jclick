@@ -1,1 +1,1 @@
-package seleniumtutorial;
+package Selenium;

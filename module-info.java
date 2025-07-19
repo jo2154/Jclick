@@ -4,5 +4,5 @@
 /**
  * 
  */
-module reginfo {
+module Ticketproject {
 }
