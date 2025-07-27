@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>seleniumProgram</name>
+	<name>testcaseprogram</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1752942246634</id>
+			<id>1752942246857</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
