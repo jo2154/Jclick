@@ -1,1 +1,1 @@
-package Selenium;
+package com.test.selenium;

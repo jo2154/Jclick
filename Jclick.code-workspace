@@ -1,0 +1,160 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Google"
+		},
+		{
+			"path": "../../../hensis"
+		},
+		{
+			"path": "../../../IfElseStatements"
+		},
+		{
+			"path": "../../../Inforeg"
+		},
+		{
+			"path": "../../../inforegnew"
+		},
+		{
+			"path": "../../../JavaProject"
+		},
+		{
+			"path": "../../../JavaScript"
+		},
+		{
+			"path": "../../../Javaselenium"
+		},
+		{
+			"path": "../../../javatest"
+		},
+		{
+			"path": "../../../johntest"
+		},
+		{
+			"path": "../../../LetCode"
+		},
+		{
+			"path": "../../../LoopStatements"
+		},
+		{
+			"path": "../../../Maven"
+		},
+		{
+			"path": "../../../Microsoft"
+		},
+		{
+			"path": "../../../newflipkart"
+		},
+		{
+			"path": "../../../newgmail"
+		},
+		{
+			"path": "../../../newinfosyslogin"
+		},
+		{
+			"path": "../../../newproject"
+		},
+		{
+			"path": "../../../newSeleniumone"
+		},
+		{
+			"path": "../../../NewTest"
+		},
+		{
+			"path": "../../../newtestcaseamazon"
+		},
+		{
+			"path": "../../../Product"
+		},
+		{
+			"path": "../../../protest"
+		},
+		{
+			"path": "../../../RaSelenium"
+		},
+		{
+			"path": "../../../reginfo"
+		},
+		{
+			"path": "../../../Registration"
+		},
+		{
+			"path": "../../../ReSelenium"
+		},
+		{
+			"path": "../../../Selenium"
+		},
+		{
+			"path": "../../../SeleniumAutomaton"
+		},
+		{
+			"path": "../../../Seleniumcourse"
+		},
+		{
+			"path": "../../../Seleniumems"
+		},
+		{
+			"path": "../../../Seleniumnewtutorial"
+		},
+		{
+			"path": "../../../seleniumProgram"
+		},
+		{
+			"path": "../../../SeleniumProject"
+		},
+		{
+			"path": "../../../seleniumTest"
+		},
+		{
+			"path": "../../../seleniumTestProject"
+		},
+		{
+			"path": "../../../seleniumtutorial"
+		},
+		{
+			"path": "../../../SeleniumTutorialNew"
+		},
+		{
+			"path": "../../../sharmaTutorial"
+		},
+		{
+			"path": "../../../Sharvan"
+		},
+		{
+			"path": "../../../spicejet"
+		},
+		{
+			"path": "../../../talentShip"
+		},
+		{
+			"path": "../../../Test"
+		},
+		{
+			"path": "../../../testcasedemo"
+		},
+		{
+			"path": "../../../testcasenew"
+		},
+		{
+			"path": "../../../testcaseprogram"
+		},
+		{
+			"path": "../../../testcaseRegistration"
+		},
+		{
+			"path": "../../../testflow"
+		},
+		{
+			"path": "../../../testproject"
+		},
+		{
+			"path": "../../../testSelenium"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "disabled"
+	}
+}
